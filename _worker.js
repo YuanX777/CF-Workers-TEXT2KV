@@ -203,7 +203,7 @@ function configHTML(域名, token) {
 		  <title>CF-Workers-TEXT2KV</title>
 		</head>
 		<body>
-		  <h1 class="centered">CF-Workers-TEXT2KV 配置信息</h1>
+		  <h1 class="centered">txt库</h1>
 		  <p class="centered">
 		  服务域名: ${域名} <br>
 		  token: ${token} <br>
